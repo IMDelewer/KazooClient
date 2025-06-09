@@ -6,46 +6,49 @@
 
 ---
 
-# 🚧🚧 КЛИЕНТ ВСЁ ЕЩЁ В РАЗРАБОТКЕ 🚧🚧
+# 🚧🚧 CLIENT STILL IN DEVELOPMENT 🚧🚧
 
 ---
 
-Kazoo-Client — это модифицированный клиент DDNet с дополнительными функциями, улучшениями интерфейса и расширенной системой скриптов.
+Kazoo-Client is a modified DDNet client with additional features, UI improvements, and an extended scripting system.
 
-Цель — добавить удобство, гибкость и возможности, которых не хватает в стандартном клиенте.
-
----
-
-## 📦 Установка
-
-1. Скачать последнюю сборку
-2. Скачать нестабильную версию (nightly)
-3. Или собрать самостоятельно:
-   - Клонируй репозиторий
-   - Следуй инструкциям по сборке от [DDNet](https://github.com/ddnet/ddnet#building)
+The goal is to provide more convenience, flexibility, and functionality than the standard client.
 
 ---
 
-## 🧪 Некоторые функции клиента
+## 📦 Installation
 
- - Настройки индикации игроков
+1. Download the latest release
+2. Download a nightly (unstable/dev) build
+3. Or build it yourself:
+   - Clone the repository
+   - Follow the build guide from [DDNet](https://github.com/ddnet/ddnet#building)
 
- - Поддержка кастомных биндвилов
+---
 
- - Отображение центра, FPS, Freeze HUD и т.п.
+## 🧪 Some Features
 
- - Цветовая кастомизация заморозки и телепортов
+ - Player indicator customization
 
- - Расширенная система отображения призраков
+ - Custom bindwheel support
 
- - Быстрый ввод и улучшенная чувствительность мыши
+ - Display of center, FPS, freeze HUD, etc.
 
- - Автоматическая авторизация
+ - Custom colors for freeze and teleport tiles
 
- - Rainbow режим
+ - Advanced ghost rendering system
 
- - ...и многое другое
+ - Fast input and improved mouse precision
 
-## ⚠️ Предупреждение
+ - Automatic login support
 
-Ничего не гарантируется. Используй на свой страх и риск. Клиент может содержать баги и нестабильности.
+ - Rainbow mode
+
+ - ...and much more
+
+---
+
+## ⚠️ Disclaimer
+
+No guarantees are provided. Use at your own risk.  
+The client may contain bugs and unstable features.
