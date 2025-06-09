@@ -1,6 +1,8 @@
-# 🐊 Kazoo-Client (K-Client)
+<p align="center">
+  <img src="docs/logo.png" alt="Kazoo-Client Logo" width="256"/>
+</p>
 
-![Logo](docs/logo.png)
+# Kazoo-Client (K-Client)
 
 ---
 
